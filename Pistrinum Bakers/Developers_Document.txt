@@ -1,0 +1,16 @@
+/*----------Gmail Credentials-------*/
+
+mail id : pistrinumbakerswebsite@gmail.com
+
+pass : P!5TR!NUM
+
+------------------------------------------------
+
+/*-----------Server Credentials--------*/
+
+FTP Username	epiz_25826551
+FTP Password    PxBdKS1MmG4UweT 
+FTP Hostname	ftpupload.net
+FTP Port   	21
+
+------------------------------------------------
