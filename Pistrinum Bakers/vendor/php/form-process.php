@@ -57,8 +57,8 @@ try {
 // *********  This Username and Password is used for testing Purpose. Please do not use this for any other Purpose.*******************************
 //**********  Note :Please Change this Email Id and Password with your email and Don't forget to enable secure apps in your Google account. *************
 
-	$mail->Username = 'vamsi.encrypter@gmail.com';                    // SMTP username 
-      $mail->Password = 'tvamshiniceboy';                              // SMTP password
+	$mail->Username = '';                    // SMTP username 
+      $mail->Password = '';                              // SMTP password
 	$mail->SMTPSecure = 'tls';                               // Enable encryption, 'ssl' also accepted
 	$mail->Port = 587 ;   								       // TCP port to connect to
 
